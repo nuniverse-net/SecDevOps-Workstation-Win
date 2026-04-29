@@ -1,0 +1,23 @@
+# Logs and temp
+*.log
+*.tmp
+*.bak
+
+# IDE
+.vscode/
+.idea/
+
+# PowerShell
+*.ps1.bak
+$PROFILE.CurrentUserCurrentHost
+
+# Tools
+downloads/
+cache/
+
+# Worktrees
+.worktrees/
+
+# OS
+Thumbs.db
+.DS_Store
